@@ -1,6 +1,6 @@
 ![flowers](images/flower3.png)
 
-### Hello there, I'm Haifaa Abushaaban
+### Hello there, I'm Haifaa
 
 I'm a junior Software developer who enjoys researching and solving real world problems with programming.
 
